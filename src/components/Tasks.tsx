@@ -6,6 +6,7 @@ type DataType = {
     title: string
     tasks: TaskType[]
     students: Array<string>
+
 }
 
 type TaskType = {

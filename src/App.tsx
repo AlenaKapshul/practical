@@ -10,6 +10,7 @@ import {Tasks} from "./components/Tasks";
 
 
 function App() {
+
     const data1 = {
         title: "What to do",
         tasks: [
